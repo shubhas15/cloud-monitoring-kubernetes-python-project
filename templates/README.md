@@ -1,5 +1,5 @@
 
-# **Cloud Native Resource Monitoring Python App on K8s!*
+# *Cloud Native Resource Monitoring Python App on K8s!*
 
 ## Exposure to below topics
 
