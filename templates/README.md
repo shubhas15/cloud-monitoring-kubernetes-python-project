@@ -1,3 +1,4 @@
+![Screenshot 2023-10-28 232330](https://github.com/shubhas15/cloud-monitoring-kubernetes-python-project/assets/99041790/c6ff9397-1cb1-4731-a6e8-27aad45154c8)
 # **Cloud Native Resource Monitoring Python App on K8s!**
 
 ## Exposure to below topics
@@ -218,8 +219,5 @@ Once your pod is up and running, run the port-forward to expose the service
 
 ```bash
 kubectl port-forward service/<service_name> 5000:5000
-
-
-![image](https://github.com/shubhas15/cloud-monitoring-kubernetes-python-project/assets/99041790/35eba82c-7082-407e-9bd4-3de057a0f487)
 
 ```
